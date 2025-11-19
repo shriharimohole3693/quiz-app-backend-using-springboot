@@ -4,7 +4,6 @@
 This is the backend of a Quiz Application built with **Spring Boot**, **Spring Data JPA**, and **REST APIs**.  
 It supports **admin functionalities** (adding questions, creating quizzes) and **user functionalities** (attempting quizzes and calculating results).  
 
-> This backend can be extended to a **microservices architecture** by separating admin and user functionalities into independent services.
 
 ---
 
@@ -54,7 +53,6 @@ It supports **admin functionalities** (adding questions, creating quizzes) and *
 ---
 
 ## Architecture Diagram
-> You can create a **simple architecture diagram in Figma**:  
 
 1. **Admin Service**  
    - Handles: Add Questions, Create Quiz  
