@@ -78,18 +78,18 @@ It supports **admin functionalities** (adding questions, creating quizzes) and *
 git clone - https://github.com/shriharimohole3693/quiz-app-backend-using-springboot
 2. Configure database in `application.properties` as shown below for mysql
 
-spring.application.name=quizapp
-spring.datasource.url=jdbc:mysql://localhost:3306/quizapp
-spring.datasource.username=root
-spring.datasource.password=root
-spring.datasource.driver-class.name=com.mysql.cj.jdbc.Driver
+- spring.application.name=quizapp
+- spring.datasource.url=jdbc:mysql://localhost:3306/quizapp
+- spring.datasource.username=root
+- spring.datasource.password=root
+- spring.datasource.driver-class.name=com.mysql.cj.jdbc.Driver
 
-#Hibernate Property Here
-spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL8Dialect
+- Hibernate Property Here
+- spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL8Dialect
 
-#Hibernate auto ddl
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show_sql=true
+- Hibernate auto ddl
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show_sql=true
   
 3. Build & run with Maven
 4. Test endpoints with Postman or frontend client
