@@ -110,4 +110,4 @@ https://github.com/user-attachments/assets/d2062261-ab9b-4e91-b2dd-b8cd9970c1bf
 
 ---
 ## Author
-- Shriahri Mohole
+- Shrihari Mohole
