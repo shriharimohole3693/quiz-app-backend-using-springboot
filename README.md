@@ -106,7 +106,7 @@ git clone - https://github.com/shriharimohole3693/quiz-app-backend-using-springb
 
 ---
 
-https://github.com/user-attachments/assets/d2062261-ab9b-4e91-b2dd-b8cd9970c1bf
+https://github.com/user-attachments/assets/19677e1f-684c-48eb-9b2a-a481b39f307c
 
 ---
 ## Author
